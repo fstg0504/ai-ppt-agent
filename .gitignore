@@ -1,6 +1,8 @@
 node_modules
 dist
 .env
+package-lock.json
 server/output/*.pptx
 server/output/*.png
+server/output/tasks.json
 .DS_Store
